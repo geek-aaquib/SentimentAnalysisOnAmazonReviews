@@ -1,7 +1,5 @@
 # SentimentAnalysisOnAmazonReviews
 
-# Sentiment Analysis on Amazon Reviews
-
 ## Overview
 
 This project is focused on performing sentiment analysis on Amazon product reviews. Sentiment analysis is the process of determining the emotional tone or sentiment expressed in a piece of text. In this case, we aim to classify Amazon product reviews as positive, negative, or neutral based on the sentiments expressed in the text.
